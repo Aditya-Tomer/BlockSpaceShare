@@ -18,4 +18,4 @@ parties involved.
 
 <!-- npx hardhat node
 npx hardhat run --network localhost scripts/deploy.js -->
->>>>>>> 124f300 (Final commit)
+
